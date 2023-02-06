@@ -1,0 +1,24 @@
+/* app.css */
+
+body {
+  background: linear-gradient(to bottom, #f3e5f5, #7b68ee);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #7b68ee;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.container {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
